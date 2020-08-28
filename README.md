@@ -1,4 +1,4 @@
-### I am a Data Scientist, Computational Biologist, Educator & Biochemist who loves everything :raised_hands:**R**:
+### I am a Data Scientist, Computational Biologist, Educator & Biochemist who loves everything :raised_hands:**R**:raised_hands:
 
 I started my programming journey with python and eventually decided to learn R because of the Bioconductor project (a repository
 with over 2000 high quality packages for biological data analysis). In the process of getting to know
