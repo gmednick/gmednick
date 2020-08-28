@@ -6,7 +6,7 @@ machine learning.
 
 - Check out my [website](https://www.gabemednick.com/) for more details and example projects.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Big Sur")
+![alt text](https://github.com/gmednick/gmednick/blob/master/big_sur.jpg "Big Sur")
 
 
 
