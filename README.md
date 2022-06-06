@@ -1,8 +1,9 @@
-I started my programming journey with python and eventually decided to learn R because of the Bioconductor project (a repository
-with over 2000 high quality packages for biological data analysis). In the process of getting to know
-R, I fell in love with data science, the R community, the tidyverse suite of packages and, more recently, 
-the tidymodels suite for machine learning. ..Even more recently, I've been enjoying the Blogdown package
-for website creation and Shiny Dashboard for creating reactive web applications with R. 
+I started my programming journey with Python and eventually decided to learn R because of the Bioconductor project (a repository with over 2000 high quality packages for biological data analysis). In the process of getting to know
+R, I fell in love with data science, the R community, the tidyverse suite of packages and,
+the tidymodels suite for machine learning. Recently, I've also been enjoying the Blogdown package
+for website creation and R Shiny for creating reactive web applications.
+
+Also, I want to give a shout out to all of you Python lovers out there. I've been rekindling the flame with Python and hope to make time to post some Python projects on my website soon (as in 2022)!
 
 - Check out my [website](https://www.gabemednick.com/) for more details and example projects.
 
